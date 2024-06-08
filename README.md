@@ -1,4 +1,5 @@
 # PYTHON : ANALISIS PENYEBAB KECELAKAAN PENGENDARA LALU LINTAS
+Berisi pengkodean dan hasil analisis penyebab kecelakaan menggunakan Python 3.12 dan Visual Code
 
 # Hasil
 
